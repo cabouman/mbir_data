@@ -1,0 +1,5 @@
+phantom:
+    bottle_cap_3D: phantom/bottle_cap_3D_phantom.npy
+denoiser params:
+    dncnn_keras: denoiser_params/model_dncnn_keras.tar.gz
+    dncnn_ct: denoiser_params/model_dncnn_ct.tar.gz
