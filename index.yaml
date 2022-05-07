@@ -4,3 +4,5 @@ phantom:
 denoiser:
     dncnn_keras: 'denoiser/model_dncnn_keras.tar.gz'
     dncnn_ct: 'denoiser/model_dncnn_ct.tar.gz'
+    dncnn_ct_slow: 'denoiser/model_dncnn_ct_slow.tar.gz'
+    dncnn_ct_medium: 'denoiser/model_dncnn_ct_medium.tar.gz'
