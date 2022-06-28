@@ -1,5 +1,6 @@
 phantom:
     bottle_cap_3D: 'phantom/bottle_cap_3D_phantom.npy'
+    pipettor_ds8: 'phantom/pipettor_ds8.npy'
 denoiser:
     dncnn_keras: 'denoiser/model_dncnn_keras.tar.gz'
     dncnn_ct: 'denoiser/model_dncnn_ct.tar.gz'
