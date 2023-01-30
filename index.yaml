@@ -4,3 +4,5 @@ phantom:
 denoiser:
     dncnn_keras: 'denoiser/model_dncnn_keras.tar.gz'
     dncnn_ct: 'denoiser/model_dncnn_ct.tar.gz'
+dataset:
+    nsi_demo: 'dataset/NSI/demo_data_nsi.tar.gz'
